@@ -1,0 +1,161 @@
+body{
+    background: white;
+}
+.image img{
+
+    height: 40px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.headers h2{
+    font-weight: bold;
+    color: blue;
+    margin-left: 185px;
+    margin-top: -35px;
+}
+
+.lists{
+
+    margin-left: 410px;
+    margin-top: -45px;
+    
+}
+
+.lists li{
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 20px;
+    font-family: sans-serif;
+    font-size: smaller;
+}
+
+.list p{
+    text-decoration: none;
+    margin-left: 1000px;
+    margin-top:-15px ;
+    font-size: smaller;
+}
+.box p{
+width: 150px;
+  border: 2px solid black;
+  padding: 10px;
+  margin-left: 1100px;
+  margin-top: -40px;
+  font-family: sans-serif;
+  font-size: smaller;
+  font-weight: bold;
+}
+
+.text {
+    margin-left: 900px;
+    margin-top: 50px;
+    font-size: large;
+    font-weight: bold;
+    font-family: sans-serif;
+    
+}
+.input input{
+    margin-left: 900px;
+   height: 30px;
+   width: 330px;  
+   border: 2px solid #c4c7b9; 
+
+}
+
+
+.input img{
+    position: absolute;
+    width: 20px;
+    margin-left: 910px;
+    margin-top: 8px;
+}
+
+.input ::placeholder{
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: medium;
+    text-indent: 50px;
+
+
+}
+
+
+
+.last input{
+    margin-top: 120px;
+    height: 30px;
+    width: 330px;
+    margin-left: 900px;
+    background-color: #c4c7b9;
+    text-indent: 10px;
+}
+
+.last1 input{
+    margin-top: 15px;
+    height: 30px;
+    width: 330px;
+    margin-left: 900px;
+    background-color: #c4c7b9;
+    text-indent: 10px;
+}
+.check{
+    margin-left: 900px;
+    margin-top: 20px;
+    font-size: smaller;
+}
+.check input{
+    height: 10px;
+}
+
+.buttons input{
+    margin-left: 900px;
+    height: 40px;
+    width: 340px;
+    margin-top: 15px;
+    background-color: #3cb043;
+    color: white;
+}
+
+.buttons input {
+    font-weight: bold;
+    color: black;
+    font-size: medium;
+}
+
+    
+.main{
+    font-size: xx-large;
+}
+.main h1{
+    margin-top: -300px;
+    margin-left: 200px;
+    font-family: sans-serif;
+}
+.paragraph{
+    margin-left: 200px;
+    margin-top: -20px;
+    font-size: large;
+}
+
+
+.line hr{
+    margin-top: -430px;
+    border-color: black;
+    border: 1px solid;
+
+}
+
+.msg1{
+
+    margin-left: 900px;
+    color: red;
+}
+
+.msg2{
+
+    margin-left: 900px;
+    color: red;
+}
+
